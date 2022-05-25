@@ -47,7 +47,7 @@
 	
 	<properties>
 
-		<springframework.version>4.3.18.RELEASE</springframework.version>
+		<springframework.version>5.2.22.RELEASE</springframework.version>
 		<jackson.library>2.9.9</jackson.library>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
